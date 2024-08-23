@@ -21,14 +21,14 @@ Base Haikal Hw Mods : Copyan Dari Base Dika
 const fs = require('fs')
 const chalk = require('chalk')
 
-global.gr = 'https://chat.whatsapp.com/EPSGKau0IVi7J5lyOJO7Jk'
+global.gr = 'https://whatsapp.com/channel/0029Vadx3PxJ3juvWsDlrN11'
 global.ig = 'kipkoech' // ubah aja
 global.email = 'samuelcircute@gmail.com' //serah
 global.region = 'kenya' // serah
 //—————「 Set Nama Own & Bot 」—————//
-global.ownername = 'DRAGON' //ubah jadi nama mu, note tanda ' gausah di hapus!
+global.ownername = '𝐂𝐀𝐋𝐕𝐈𝐍𝐄 𝐎𝐁𝐎𝐔𝐎𝐑𝐎≈≈𝐓𝐄𝐂𝐇' //ubah jadi nama mu, note tanda ' gausah di hapus!
 //=================================================//
-global.owner = ['254746764468'] // ubah aja pake nomor lu
+global.owner = ['254796281776'] // ubah aja pake nomor lu
 //==========================zetsuboclient=======================//
 global.botname = '⫹TIGER-RADIATION⫺' //ubah jadi nama bot mu, note tanda ' gausah di hapus!
 global.packname = '⫹⸙⧉TIGER-BUGBOT-RADIATION⧉⸙⫺' // ubah aja ini nama sticker
